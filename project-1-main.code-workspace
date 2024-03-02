@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../project-1-main (1)/project-1-main"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORTAFOLIO-1",
+		"liveServer.settings.port": 5501
+	}
+}
